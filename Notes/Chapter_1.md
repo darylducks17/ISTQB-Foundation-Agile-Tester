@@ -15,7 +15,7 @@
 K1 = 5, K2 = 7, K3 = 1  
 Total Points: 13
 
-## FA-1.1.1(K1) Recall the basic concept of Agile software development based on the Agile Manifesto
+## FA-1.1.1 (K1) Recall the basic concept of Agile software development based on the Agile Manifesto
 
 ### Agile Manifesto
 
@@ -43,7 +43,7 @@ Total Points: 13
 11. self-organising teams produce the best architectures, requirements and designs
 12. teams regularly reflect and improve their effectiveness
 
-## FA-1.1.2(K2) Understand the advantages of the whole-team approach
+## FA-1.1.2 (K2) Understand the advantages of the whole-team approach
 
 - whole team approach involves everyone with the knowledge and skills necessary for project success
 - includes testers, developers, and business stakeholders
@@ -62,7 +62,7 @@ Total Points: 13
   - business rep, dev and testers
   - involved in feature discussion, estimation and decision to ensure quality level is a shared responsibility
 
-## FA-1.1.3(K2) Understand the benefits of early and frequent feedback
+## FA-1.1.3 (K2) Understand the benefits of early and frequent feedback
 
 - benefits of early and frequent feedback
   - helps avoid  misunderstandings in requirements by identifying issues earlier
@@ -73,7 +73,7 @@ Total Points: 13
   - maintains consistent momentum throughout the project
 - frequent feedback ensures that high-value and high-risk features are prioritised and delivered first, improving customer satisfaction  and reducing rework
 
-## FA-1.2.1(K1) Recall Agile software development approaches
+## FA-1.2.1 (K1) Recall Agile software development approaches
 
 - XP - Extreme Programming
   - XP influenced many other agile frameworks e.g. scrum
@@ -106,7 +106,7 @@ Total Points: 13
     - lead time - measure and optimises the time to complete tasks through the workflow.
   - Kanban and scrum both use visual task tracking for transparency, with tasks moving from backlog to board when capacity allows. kanban differs by making iterations optional and allowing single-item releases, while scrum requires synchronised sprints
 
-## FA-1.2.2(K3) Write testable user stories in collaboration with developers and business representatives
+## FA-1.2.2 (K3) Write testable user stories in collaboration with developers and business representatives
 
 - in agile, requirements are captured as user stories - these are created collaboratively by devs, testers and business reps - shared vision is accomplished through frequent informal reviews while the requirements are being written
 - key concepts
@@ -139,7 +139,7 @@ Total Points: 13
     - Small
     - Testable
 
-## FA-1.2.3(K2) Understand how retrospectives can be used as a mechanism for process improvement in Agile projects
+## FA-1.2.3 (K2) Understand how retrospectives can be used as a mechanism for process improvement in Agile projects
 
 - in agile, retrospective is a meeting held at the end of each iteration to discuss what worked, what didn’t and what to improve
 - purpose and scope
@@ -150,7 +150,7 @@ Total Points: 13
   - testers are part of the team and bring their unique perspective.
   - all team members, testers and non-testers, can provide input on both testing and non-testing activities.
 
-## FA-1.2.4(K2) Understand the use and purpose of continuous integration
+## FA-1.2.4 (K2) Understand the use and purpose of continuous integration
 
 - in agile, CI is used to ensure software is always in a working, testable state
 - all changes are merged and integrated frequently at least once a day
@@ -180,7 +180,7 @@ Total Points: 13
   - effort required to establish automated tests and maintain coverage
   - over reliance on unit tests, with insufficient system and acceptance testing
 
-## FA-1.2.5(K1) Know the differences between iteration and release planning, and how a tester adds value
+## FA-1.2.5 (K1) Know the differences between iteration and release planning, and how a tester adds value
 
 - release planning focuses on defining the product backlog and planning across multiple iterations. It may span months ahead and helps form a high-level test approach.
 - tester contribution
