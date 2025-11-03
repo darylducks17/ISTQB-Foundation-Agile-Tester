@@ -159,7 +159,7 @@ Total Points: 13
 - automated activities include
   - static code analysis - running analysis tools
   - compile - creating executable files
-  - unit test - running tests and mesuring coverage
+  - unit test - running tests and measuring coverage
   - deploy - installing in test env
   - integration test - running integration tests
   - report - publishing status to dashboard/email
@@ -178,7 +178,7 @@ Total Points: 13
   - need for ongoing setup and maintenance of integration tools
   - complexity in defining and maintaining the integration process
   - effort required to establish automated tests and maintain coverage
-  - overreliance on unit tests, with insufficient system and acceptance testing
+  - over reliance on unit tests, with insufficient system and acceptance testing
 
 ## FA-1.2.5(K1) Know the differences between iteration and release planning, and how a tester adds value
 
@@ -200,7 +200,7 @@ Total Points: 13
 - agile testers must adapt quickly while maintaining a clear understanding of test objectives and strategy.
 - testing must be planned in parallel with development.
 - **test planning aspects include:**
-  - dcope and extent of testing, including goals and reasons for these decision.
+  - scope and extent of testing, including goals and reasons for these decision.
   - roles and responsibilities in test activities.
   - test environments and data requirements.
   - test schedules, dependencies, and frequency.
